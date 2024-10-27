@@ -1,38 +1,38 @@
 # Apple Swift-Only Frameworks Crawler
 
-This project is a web crawler that fetches and analyzes Apple's developer documentation to identify frameworks that exclusively support Swift. It provides a comprehensive list of Swift-only frameworks along with their introduction versions and platforms.
+这个项目是一个网络爬虫,用于获取和分析Apple的开发者文档,以识别仅支持Swift的框架。它提供了一个全面的仅支持Swift的框架列表,包括它们的引入版本和平台。
 
-## Features
+## 功能
 
-- Crawls Apple's official developer documentation
-- Identifies frameworks that only support Swift
-- Retrieves detailed information for each framework
-- Filters out certain technologies and frameworks
-- Sorts results by platform and introduction version
-- Displays results in a tabular format in the console
+- 爬取Apple官方开发者文档
+- 识别仅支持Swift的框架
+- 检索每个框架的详细信息
+- 过滤掉某些技术和框架
+- 按平台和引入版本对结果进行排序
+- 在控制台以表格格式显示结果
 
-## Prerequisites
+## 先决条件
 
-Before you begin, ensure you have met the following requirements:
+在开始之前,请确保您满足以下要求:
 
-- Node.js (v12.0.0 or higher)
-- npm (usually comes with Node.js)
+- Node.js (v12.0.0或更高版本)
+- npm (通常随Node.js一起提供)
 
-## Usage
+## 使用方法
 
-To run the crawler and see the results, use the following command:
+要运行爬虫并查看结果,请使用以下命令:
 
 ```shell
 npm install
 npm start
 ```
 
-## Current Status
+## 当前状态
 
-> Date: 2024-10-27
+> 日期: 2024-10-27
 
-| Index | Title | URL | Platform | Introduced At |
-|-------|-------|-----|----------|---------------|
+| 序号 | 标题 | URL | 平台 | 引入版本 |
+|------|------|-----|------|----------|
 | 0 | SwiftUI | https://developer.apple.com/documentation/SwiftUI | iOS | 13.0 |
 | 1 | Combine | https://developer.apple.com/documentation/Combine | iOS | 13.0 |
 | 2 | RealityKit | https://developer.apple.com/documentation/RealityKit | iOS | 13.0 |
