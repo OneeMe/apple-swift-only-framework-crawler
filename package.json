@@ -1,0 +1,15 @@
+{
+  "name": "apple-docs-crawler",
+  "version": "1.0.0",
+  "description": "爬取 Apple 开发者文档并展示只支持 Swift 的框架",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
