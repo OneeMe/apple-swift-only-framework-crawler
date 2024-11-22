@@ -29,7 +29,7 @@ npm start
 
 ## Current Status
 
-> Date: 2024-11-22
+> Date: 2024-11-22, Added: Automated Device Enrollment、Image Playground
 
 | Index | Title | URL | Platform | Introduced At |
 |-------|-------|-------|-------|-------|

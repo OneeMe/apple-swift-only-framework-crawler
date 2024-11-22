@@ -29,7 +29,7 @@ npm start
 
 ## 当前状态
 
-> 日期: 2024-11-22
+> 日期: 2024-11-22, 增加：Automated Device Enrollment、Image Playground
 
 | 序号 | 标题 | URL | 平台 | 引入版本 |
 |-------|-------|-------|-------|-------|
